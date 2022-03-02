@@ -42,7 +42,7 @@ You can find the required software/resources that you'll require for tomorrow's 
 [Instagram](https://instagram.com/wish_new8)<br/>
 [WhatsApp](https://wa.me/+918848752606)<br/>
 [LinkedIn](https://linkedin.com/wishnew8)<br/>
-[Portfolio](https://wish-new.me)
+[Portfolio](https://wish-new.me)<br/>
 [Github](https://github.com/Viz38)
 
 ## Aadil Sajid
