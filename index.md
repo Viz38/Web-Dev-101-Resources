@@ -43,6 +43,7 @@ You can find the required software/resources that you'll require for tomorrow's 
 [WhatsApp](https://wa.me/+918848752606)<br/>
 [LinkedIn](https://linkedin.com/wishnew8)<br/>
 [Portfolio](https://wish-new.me)
+[Github](https://github.com/Viz38)
 
 ## Aadil Sajid
 
