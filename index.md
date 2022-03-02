@@ -12,7 +12,7 @@ You can find the required software/resources that you'll require for tomorrow's 
 
 ### Day 1 PPT
 
-[Download](/)
+[Download](https://github.com/Viz38/Web-Dev-101-Resources/raw/main/Day%201.pptx)
 
 ### GitHub cheat sheet
 
