@@ -39,7 +39,7 @@ You can find the required software/resources that you'll require for tomorrow's 
 
 ## Vishnu Bhagirathan
 
-![Vishnu](https://github.com/Viz38/Web-Dev-101-Resources/blob/gh-pages/viz.png)
+![Vishnu](https://github.com/Viz38/Web-Dev-101-Resources/raw/main/viz.png)
 
 [Instagram](https://instagram.com/wish_new8)<br/>
 [WhatsApp](https://wa.me/+918848752606)<br/>
@@ -49,7 +49,7 @@ You can find the required software/resources that you'll require for tomorrow's 
 
 ## Aadil Sajid
 
-![Aadil](https://github.com/Viz38/Web-Dev-101-Resources/blob/gh-pages/a331.png)
+![Aadil](https://github.com/Viz38/Web-Dev-101-Resources/raw/main/a33.png)
 
 [Instagram](https://instagram.com/aad33l)<br/>
 [WhatsApp](https://wa.me/+917012793338)<br/>
