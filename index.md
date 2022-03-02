@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Welcome to Web Dev 101 Workshop
 
-You can use the [editor on GitHub](https://github.com/Viz38/Web-Dev-101-Resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can find the required software/resources that you'll require for tomorrow's section.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### VS Code
 
-### Markdown
+[Download](https://code.visualstudio.com/download)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Github Desktop
 
-```markdown
-Syntax highlighted code block
+[Download](https://desktop.github.com/)
 
-# Header 1
-## Header 2
-### Header 3
+### Day 1 PPT
 
-- Bulleted
-- List
+[Download](/)
 
-1. Numbered
-2. List
+### WhatsApp group
 
-**Bold** and _Italic_ and `Code` text
+[Join](https://chat.whatsapp.com/KHzmlPAN5Kl1reaOPh9lTp)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### GitHub cheat sheet
 
-### Jekyll Themes
+[Download](https://education.github.com/git-cheat-sheet-education.pdf)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Viz38/Web-Dev-101-Resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Get in touch with your trainers
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Vishnu Bhagirathan
+
+[Instagram](https://instagram.com/wish_new8)
+[WhatsApp](https://wa.me/8848752606)
+[LinkedIn](https://desktop.github.com/)
+[Portfolio](https://wish-new.me)
+
+## Aadil Sajid
+
+[Instagram](https://instagram.com/aad33l)
+[WhatsApp](https://wa.me/7012793338)
+[LinkedIn](Linkedin.com/aad33l)
