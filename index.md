@@ -40,12 +40,12 @@ You can find the required software/resources that you'll require for tomorrow's 
 ## Vishnu Bhagirathan
 
 [Instagram](https://instagram.com/wish_new8)
-[WhatsApp](https://wa.me/8848752606)
-[LinkedIn](https://desktop.github.com/)
+[WhatsApp](https://wa.me/+918848752606)
+[LinkedIn](https://linkedin.com/wishnew8)
 [Portfolio](https://wish-new.me)
 
 ## Aadil Sajid
 
 [Instagram](https://instagram.com/aad33l)
-[WhatsApp](https://wa.me/7012793338)
+[WhatsApp](https://wa.me/+917012793338)
 [LinkedIn](Linkedin.com/aad33l)
