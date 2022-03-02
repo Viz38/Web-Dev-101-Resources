@@ -10,35 +10,23 @@ You can find the required software/resources that you'll require for tomorrow's 
 
 [Download](https://desktop.github.com/)
 
-<br/>
-
-
-<br/>
-
 ### Day 1 PPT
 
 [Download](/)
-
-<br/>
-
-
-<br/>
-
-### WhatsApp group
-
-[Join](https://chat.whatsapp.com/KHzmlPAN5Kl1reaOPh9lTp)
-
-
-<br/>
-
-
-<br/>
-
 
 ### GitHub cheat sheet
 
 [Download](https://education.github.com/git-cheat-sheet-education.pdf)
 
+<br/>
+
+
+<br/>
+
+
+### WhatsApp group
+
+[Join](https://chat.whatsapp.com/KHzmlPAN5Kl1reaOPh9lTp)
 
 
 <br/>
