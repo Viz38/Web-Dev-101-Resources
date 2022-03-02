@@ -35,7 +35,7 @@ You can find the required software/resources that you'll require for tomorrow's 
 <br/>
 
 
-### Get in touch with your trainers
+# Get in touch with your trainers
 
 ## Vishnu Bhagirathan
 
